@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @nishrin08
+- 👋 Hi, I’m Thasleema Nishrin
 - 👀 I’m interested in web developing
 - 🌱 I’m currently learning java and wordpress
 - 💞️ I’m looking to collaborate on project
