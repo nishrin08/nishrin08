@@ -3,6 +3,7 @@
 - 🌱 I’m currently working on App Development
 - 👯 I’m looking to collaborate on App Development
 - 📫 How to reach me ..
+  <a href="#" class="button big">LINKEDIN</a>
   
 
 <!---
